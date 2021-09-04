@@ -1,0 +1,2 @@
+0. C:\Users\USER\git\study3 로 이동
+1. npm run serve
